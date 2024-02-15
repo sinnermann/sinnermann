@@ -21,7 +21,7 @@ I am also a Constant Learner & Researcher.
 - 📚 Constant Learner & Researcher
 
 
-### 🤝 Connect with me:
+### 🤝 Connect with me (Section under construction & be available soon):
 
 [<img alt="sinnerman | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img alt="sinnerman | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -44,7 +44,7 @@ I am also a Constant Learner & Researcher.
 
 ### 🛠 Tools:
 
-<img alt="figma" src="https://img.shields.io/badge/figma-007ACC.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
+<img alt="figma" src="https://img.shields.io/badge/figma-000.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
