@@ -1,11 +1,18 @@
-
-
-
 ### Greetings Everyone, I'm Elmar 👋 
 
-## I'm a Web Developer, Web Designer, WP Developer & Frontender!
+## I'm a Passionate Web Developer, Web Designer, WP Developer & Frontender!
+My passion for Design & Websites' Development lies with dreaming up ideas and making them come true with amazing interfaces. I do take deep care in the experience, architecture, and code quality of the things I build.
 
-- 📍 I’m From Eastern Europe
+I am also a Constant Learner & Researcher. 
+
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 any freelance work? do reach, [email](mailto:ealijev@gmail.com) 
+- 💬 ask me about anything, I'll be happy to help;
+
+**My Experience:**  
+
 - 💻 10+ Years Experience in Web Design 
 - 💻 7+ Years Experience in WordPress Websites Building 
 - 💻 5+ Years Experience in Front-End
@@ -37,11 +44,14 @@
 
 ### 🛠 Tools:
 
+<img alt="figma" src="https://img.shields.io/badge/figma-007ACC.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
+<img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
+<img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
-<img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
-<img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+
+
 
 ---
 
