@@ -58,6 +58,8 @@ I am also a Constant Learner & Researcher.
 
 <p align="left">   
   <img alt="WordPress Developer" src="https://img.shields.io/badge/WordPress%20Developer-21759B.svg?&style=for-the-badge&logo=wordpress&logoColor=fff" /> 
+  <img alt="Web Design Concepts" src="https://img.shields.io/badge/Web%20Design%20Concepts-FE7A16.svg?&style=for-the-badge&logo=dribbble&logoColor=fff" /> 
+  <img alt="Web Development Concepts" src="https://img.shields.io/badge/Web%20Development%20Concepts-4CAF50.svg?&style=for-the-badge&logo=web&logoColor=fff" /> 
   <img alt="HTML & CSS Developer" src="https://img.shields.io/badge/HTML%20%26%20CSS%20Developer-F16529.svg?&style=for-the-badge&logo=w3c&logoColor=fff" /> 
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" /> 
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" /> 
@@ -67,9 +69,7 @@ I am also a Constant Learner & Researcher.
   <img alt="Networking Concepts" src="https://img.shields.io/badge/Networking%20Concepts-0A0A0A.svg?&style=for-the-badge&logo=knowledgebase&logoColor=fff" /> 
   <img alt="Network Security" src="https://img.shields.io/badge/Network%20Security-008CBA.svg?&style=for-the-badge&logo=verizon&logoColor=fff" /> 
   <img alt="Network Technical Support" src="https://img.shields.io/badge/Network Technical%20Support-6A1B9A.svg?&style=for-the-badge&logo=support&logoColor=fff" /> 
-  <img alt="TCP/IP Administration" src="https://img.shields.io/badge/TCP%2FIP%20Administration-333.svg?&style=for-the-badge&logo=linux&logoColor=fff" /> 
-  <img alt="Web Design Concepts" src="https://img.shields.io/badge/Web%20Design%20Concepts-FE7A16.svg?&style=for-the-badge&logo=dribbble&logoColor=fff" /> 
-  <img alt="Web Development Concepts" src="https://img.shields.io/badge/Web%20Development%20Concepts-4CAF50.svg?&style=for-the-badge&logo=web&logoColor=fff" /> 
+  <img alt="TCP/IP Administration" src="https://img.shields.io/badge/TCP%2FIP%20Administration-333.svg?&style=for-the-badge&logo=linux&logoColor=fff" />   
   <img alt="Written English" src="https://img.shields.io/badge/Written%20English-4285F4.svg?&style=for-the-badge&logo=language&logoColor=fff" /> 
   <img alt="Listening Comprehension" src="https://img.shields.io/badge/English Listening%20Comprehension-5C6BC0.svg?&style=for-the-badge&logo=audioboom&logoColor=fff" /> 
   <img alt="Reading Comprehension" src="https://img.shields.io/badge/English Reading%20Comprehension-00ACC1.svg?&style=for-the-badge&logo=readme&logoColor=fff" /> 
