@@ -66,12 +66,12 @@ I am also a Constant Learner & Researcher.
   <img alt="PHP5" src="https://img.shields.io/badge/PHP5-777BB4.svg?&style=for-the-badge&logo=php&logoColor=fff" /> 
   <img alt="Networking Concepts" src="https://img.shields.io/badge/Networking%20Concepts-0A0A0A.svg?&style=for-the-badge&logo=knowledgebase&logoColor=fff" /> 
   <img alt="Network Security" src="https://img.shields.io/badge/Network%20Security-008CBA.svg?&style=for-the-badge&logo=verizon&logoColor=fff" /> 
-  <img alt="Technical Support" src="https://img.shields.io/badge/Tech%20Support-6A1B9A.svg?&style=for-the-badge&logo=support&logoColor=fff" /> 
-  <img alt="TCP/IP Administration" src="https://img.shields.io/badge/TCP%2FIP%20Admin-333.svg?&style=for-the-badge&logo=linux&logoColor=fff" /> 
+  <img alt="Network Technical Support" src="https://img.shields.io/badge/Network Technical%20Support-6A1B9A.svg?&style=for-the-badge&logo=support&logoColor=fff" /> 
+  <img alt="TCP/IP Administration" src="https://img.shields.io/badge/TCP%2FIP%20Administration-333.svg?&style=for-the-badge&logo=linux&logoColor=fff" /> 
   <img alt="Web Design Concepts" src="https://img.shields.io/badge/Web%20Design%20Concepts-FE7A16.svg?&style=for-the-badge&logo=dribbble&logoColor=fff" /> 
   <img alt="Web Development Concepts" src="https://img.shields.io/badge/Web%20Development%20Concepts-4CAF50.svg?&style=for-the-badge&logo=web&logoColor=fff" /> 
   <img alt="Written English" src="https://img.shields.io/badge/Written%20English-4285F4.svg?&style=for-the-badge&logo=language&logoColor=fff" /> 
-  <img alt="Listening Comprehension" src="https://img.shields.io/badge/Listening%20Comprehension-5C6BC0.svg?&style=for-the-badge&logo=audioboom&logoColor=fff" /> 
+  <img alt="Listening Comprehension" src="https://img.shields.io/badge/English Listening%20Comprehension-5C6BC0.svg?&style=for-the-badge&logo=audioboom&logoColor=fff" /> 
   <img alt="Reading Comprehension" src="https://img.shields.io/badge/English Reading%20Comprehension-00ACC1.svg?&style=for-the-badge&logo=readme&logoColor=fff" /> 
   <img alt="English Vocabulary" src="https://img.shields.io/badge/English%20Vocabulary-9C27B0.svg?&style=for-the-badge&logo=bookstack&logoColor=fff" />   
 </p> 
