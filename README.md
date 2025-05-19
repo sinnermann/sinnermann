@@ -86,7 +86,7 @@ I am also a Constant Learner & Researcher.
   <img alt="CSS Layouts Masterclass" src="https://img.shields.io/badge/CSS%20Layouts%20Masterclass-2965f1.svg?&style=for-the-badge&logo=css3&logoColor=fff" />
   <img alt="Figma UI UX Advanced" src="https://img.shields.io/badge/Figma%20Advanced-000000.svg?&style=for-the-badge&logo=figma&logoColor=fff" />
   <img alt="Modern React with Redux" src="https://img.shields.io/badge/React%20with%20Redux-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=000" />  
-  <img alt="React Beginner to Advanced" src="https://img.shields.io/badge/React%20Advanced-20232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="React Beginner to Advanced" src="https://img.shields.io/badge/React%20Beginner to Advanced-20232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Cybersecurity 101" src="https://img.shields.io/badge/Cybersecurity%20101-0F9D58.svg?&style=for-the-badge&logo=fortinet&logoColor=fff" />
 </p>
 
