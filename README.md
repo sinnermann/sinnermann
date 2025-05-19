@@ -53,9 +53,25 @@ I am also a Constant Learner & Researcher.
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
 
 
-## Certifications:
+### 🎓 Certifications:
+ 
 
 <p align="left"> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" /> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" /> <img alt="JavaScript Fundamentals" src="https://img.shields.io/badge/JavaScript%20Fundamentals-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=000" /> <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jquery&logoColor=fff" /> <img alt="PHP5" src="https://img.shields.io/badge/PHP5-777BB4.svg?&style=for-the-badge&logo=php&logoColor=fff" /> <img alt="Networking Concepts" src="https://img.shields.io/badge/Networking%20Concepts-0A0A0A.svg?&style=for-the-badge&logo=knowledgebase&logoColor=fff" /> <img alt="Network Security" src="https://img.shields.io/badge/Network%20Security-008CBA.svg?&style=for-the-badge&logo=verizon&logoColor=fff" /> <img alt="Technical Support" src="https://img.shields.io/badge/Tech%20Support-6A1B9A.svg?&style=for-the-badge&logo=support&logoColor=fff" /> <img alt="TCP/IP Administration" src="https://img.shields.io/badge/TCP%2FIP%20Admin-333.svg?&style=for-the-badge&logo=linux&logoColor=fff" /> <img alt="Web Design Concepts" src="https://img.shields.io/badge/Web%20Design%20Concepts-FE7A16.svg?&style=for-the-badge&logo=dribbble&logoColor=fff" /> <img alt="Web Development Concepts" src="https://img.shields.io/badge/Web%20Development%20Concepts-4CAF50.svg?&style=for-the-badge&logo=web&logoColor=fff" /> <img alt="Written English" src="https://img.shields.io/badge/Written%20English-4285F4.svg?&style=for-the-badge&logo=language&logoColor=fff" /> <img alt="Listening Comprehension" src="https://img.shields.io/badge/Listening%20Comprehension-5C6BC0.svg?&style=for-the-badge&logo=audioboom&logoColor=fff" /> <img alt="Reading Comprehension" src="https://img.shields.io/badge/Reading%20Comprehension-00ACC1.svg?&style=for-the-badge&logo=readme&logoColor=fff" /> <img alt="English Vocabulary" src="https://img.shields.io/badge/English%20Vocabulary-9C27B0.svg?&style=for-the-badge&logo=bookstack&logoColor=fff" /> <img alt="HTML & CSS Developer" src="https://img.shields.io/badge/HTML%20%26%20CSS%20Developer-F16529.svg?&style=for-the-badge&logo=w3c&logoColor=fff" /> <img alt="WordPress Developer" src="https://img.shields.io/badge/WordPress%20Developer-21759B.svg?&style=for-the-badge&logo=wordpress&logoColor=fff" /> </p> 
+
+
+### 📚 Courses
+
+<p align="left">
+  <img alt="Webflow Essentials Course" src="https://img.shields.io/badge/Webflow%20Essentials-4353FF.svg?&style=for-the-badge&logo=webflow&logoColor=fff" />
+  <img alt="Cybersecurity 101" src="https://img.shields.io/badge/Cybersecurity%20101-0F9D58.svg?&style=for-the-badge&logo=fortinet&logoColor=fff" />
+  <img alt="Web & Mobile Designer UI/UX" src="https://img.shields.io/badge/UI%2FUX%20Design-FE7A16.svg?&style=for-the-badge&logo=figma&logoColor=fff" />
+  <img alt="Modern React with Redux" src="https://img.shields.io/badge/React%20with%20Redux-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=000" />
+  <img alt="Flexbox, Grid, Sass & Animations" src="https://img.shields.io/badge/Flexbox%20%26%20Sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=fff" />
+  <img alt="React Beginner to Advanced" src="https://img.shields.io/badge/React%20Advanced-20232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="CSS Layouts Masterclass" src="https://img.shields.io/badge/CSS%20Layouts%20Masterclass-2965f1.svg?&style=for-the-badge&logo=css3&logoColor=fff" />
+  <img alt="Figma UI UX Advanced" src="https://img.shields.io/badge/Figma%20Advanced-000000.svg?&style=for-the-badge&logo=figma&logoColor=fff" />
+</p>
+
 
 ---
 
